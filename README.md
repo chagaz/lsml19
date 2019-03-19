@@ -1,5 +1,5 @@
 # lsml19
-Practical sessions for the 2019 Large Scale Machine Learning course at MINES ParisTech. 
+Practical sessions for the [2019 Large Scale Machine Learning course at MINES ParisTech](http://cazencott.info/index.php/pages/LSML-19-Large-Scale-Machine-Learning). 
 
 ## 2019-03-25  Introduction to Machine Learning with Python
 
