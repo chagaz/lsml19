@@ -23,9 +23,9 @@ Start with Notebook 5 (from the previous day) and move on to Notebook 6, where y
 
 ## 2019-03-26 Convolutional Neural Networks
 
-If you have never trained a ConvNet before (in particular, if you did not take the "Apprentissage Artificiel" course by Fabien Moutarde, start with http://perso.mines-paristech.fr/fabien.moutarde/ES_MachineLearning/TP_convNet/TP_convNets.html
+If you have never trained a ConvNet before (in particular, if you did not take the "Apprentissage Artificiel" course by Fabien Moutarde), start with LSML19_CNN_Introduction.ipynb, available on CoLab at https://colab.research.google.com/drive/1QNKEppw6bcZbpllFjBHppO2gnRJ6dYTZ.
 
-Then you can move on to transfer learning with deep networks at http://perso.mines-paristech.fr/fabien.moutarde/ES_LSML/TP_TransferLearning-ConvNet/TP_TransferLearning-ConvNets.html
+Then you can move on to transfer learning with deep networks LSML19_Transfer_Learning.ipynb at https://colab.research.google.com/drive/1LXz9Sior_X4X8Xe8DfzpgLPQ4pK2sk3u.
 
 ## 2019-03-27 Stochastic Gradient Descent
 
