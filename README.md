@@ -11,6 +11,11 @@ To run the notebooks, you need to start Jupyter by typing
 
 in a terminal. This will open a file navigator in your web browser. Navigate to this repository. You can then open any notebook by clicking on it.
 
+**If you are working on a MINES ParisTech machine, you need to first add the path to jupyter to your PATH environement variable:**
+ ```bash
+ export PATH=/opt/anaconda2/bin:$PATH
+ ```
+
 If you are already familiar with Python and numerical Python (numpy) as well as matplotlib, you can start with Notebook 3. We recommend, however, doing the small problems in Notebooks 1 and 2 to familiarize yourselves with Jupyter and refresh your knowledge of these tools.
 
 The focus of our first afternoon of practicals is going to be Notebooks 3 and 4, which introduce data manipulation and machine learning with scikit-learn. If you still have time, you can get started on Notebook 5.
